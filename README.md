@@ -54,34 +54,14 @@ O projeto foi construído com tecnologias web simples e diretas:
 └── README.md
 ```
 
-## Como visualizar o site
-Como este projeto é estático, basta abrir o arquivo `index.html` em um navegador.
 
-Se preferir, você também pode usar um servidor local simples. Exemplo com Python:
-
-```bash
-python3 -m http.server 8000
-```
-
-Depois, acesse no navegador:
-
-```text
-http://localhost:8000
-```
-
-## Possíveis melhorias futuras
-Algumas evoluções que podem ser adicionadas ao projeto:
-
-- substituir textos de exemplo por conteúdos finais;
-- cadastrar notícias reais com links válidos;
-- adicionar transcrições completas aos vídeos;
-- ampliar o quiz com feedback por resposta;
-- incluir uma seção específica de créditos e autores.
 
 ## Seção de referências
 Use este espaço para adicionar as fontes utilizadas no conteúdo do site.
 
-- [Adicionar referência 1]
+- [Redes de abastecimento
+https://www.parana.pr.gov.br/aen/Noticia/Redes-de-abastecimento-de-agua-e-esgoto-do-Parana-estao-acima-da-media-nacional
+]
 - [Adicionar referência 2]
 - [Adicionar referência 3]
 
